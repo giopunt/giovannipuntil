@@ -6,11 +6,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "clsx": "^2.1.0",
     "next": "latest",
+    "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.4",
+    "sass": "^1.70.0"
   }
 }

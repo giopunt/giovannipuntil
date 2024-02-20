@@ -14,7 +14,7 @@ export default function Home() {
       <section className="hero is-fullheight is-justify-content-flex-start">
         <section className="section">
           <div className="container is-max-desktop">
-            <h1 className="is-size-1 is-size-3-touch	has-text-weight-semibold has-text-black">Ciao! <Image src="/giovannipuntil/images/hello.png" height={139} width={135} alt="Hello world!" className={clsx(styles.sayHi, styles.inline)} /> my name is Giovanni
+            <h1 className="is-size-1 is-size-3-touch	has-text-weight-semibold has-text-black">Ciao! <Image src="/images/hello.png" height={139} width={135} alt="Hello world!" className={clsx(styles.sayHi, styles.inline)} /> my name is Giovanni
               <br /> I am a software engineer.</h1>
             <p className="is-size-3 is-size-4-touch has-text-grey has-text-weight-light mt-3">I find joy in the process of creation, whether physical or virtual.</p>
           </div>

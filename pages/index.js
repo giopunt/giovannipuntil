@@ -20,13 +20,13 @@ export default function Home() {
             <p className="is-size-3 is-size-4-touch has-text-grey has-text-weight-light mt-3">I find joy in the process of creation, whether physical or virtual.</p>
           </div>
         </section>
-        <section id="social-links" className="section">
+        <div id="social-links" className="block">
           <div className="container is-max-desktop">
             <SocialLink href="https://github.com/giopunt" icon="github" label="github" />
             <SocialLink href="https://www.linkedin.com/in/puntilgiovanni/" icon="linkedin" label="LinkedIn" />
             <SocialLink href="https://x.com/giovannipuntil" icon="x.com" label="X (Twitter)" />
           </div>
-        </section>
+        </div>
         <section id="things-i-do" className="section">
           <div className="container is-max-desktop">
             <h2 className="is-size-4 is-size-5-touch has-text-weight-semibold has-text-black">Things I do</h2>

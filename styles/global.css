@@ -36,3 +36,10 @@ body {
 .is-transparent {
   background-color: transparent;
 }
+
+@media screen and (max-width: 1023px) {
+  #social-links {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+}

@@ -1,6 +1,6 @@
 # giovannipuntil.com
 
-![hello](https://github.com/giopunt/giovannipuntil/assets/1746646/05c35864-ead6-4204-ab6e-3e0ebbbe2983)
+![hello](https://github.com/giopunt/giovannipuntil/assets/1746646/50defb96-803e-49c6-b8b1-1666a23b3b77)
 
 My personal website — Finally I found the peace of mind to create one after years. It runs `Next.js` ⚡️ and good 'ol `SCSS` 💅 styling under the hood. 
 

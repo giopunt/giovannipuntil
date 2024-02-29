@@ -21,7 +21,7 @@ export default function Header() {
 
           <div id="navbarBasicExample" className={`navbar-menu has-text-weight-medium ${isMenuOpen && 'is-active'}`}>
             <div className="navbar-end">
-              <a className="navbar-item" href="/work">
+              <a className="navbar-item" href="#things-i-do">
                 Things I do
               </a>
 
